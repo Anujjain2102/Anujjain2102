@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hii👋 I'm Anuj Jain
 🔭 I’m currently working on Vulkan, GPU architecture & graphics debugging<br>🌱 I’m currently learning advanced trading strategies and low-level graphics systems<br>🤝 I’m looking to collaborate on graphics, rendering, or performance-focused projects<br>⚡ Fun fact: I balance a full-time job, gym, and learning trading + tech side hustles
 
 
